@@ -1,0 +1,2 @@
+# Praktikum_Algopro
+SevtikaIchitiaL200180158
